@@ -1,0 +1,6 @@
+a	1
+aaa	1
+aaaaa	1
+asda	1
+qqqq	1
+www	1
